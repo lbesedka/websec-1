@@ -1,0 +1,44 @@
+.inputField {
+    margin: 20px 20px 20px 20px;
+    border-color:red;
+    color:red;
+    background-color: lightgreen;
+    border: 1px dashed red;
+    border-radius: 10px;
+    padding: 10px;
+    font-weight: bold;
+}
+.selectField {
+    margin: 20px 20px 20px 20px;
+    border-color:red;
+    color:red;
+    background-color: lightgreen;
+    border: 1px dashed red;
+    border-radius: 10px;
+    padding: 10px;
+    font-weight: bold;
+}
+.buttonField {
+    margin: 20px 20px 20px 225px;
+    border-color:red;
+    color:red;
+    background-color: lightgreen;
+    border: 1px dashed red;
+    border-radius: 10px;
+    padding: 10px 20px;
+    font-weight: bold;
+
+}
+.resultField{
+    margin: 20px 20px 20px 20px;
+    border-color:red;
+    color:red;
+    background-color: lightgreen;
+    border: 1px dashed red;
+    border-radius: 10px;
+    padding: 10px;
+    font-weight: bold;
+}
+.color {
+    background-color: lightgreen;
+}
